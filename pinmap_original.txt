@@ -1,0 +1,22 @@
+=====================================================
+          GPIO Smart Controler
+=====================================================
+
+--- CHARGING / POWER STATUS ---
+PIN_CHRG  : GPIO 4
+PIN_STDBY : GPIO 5
+
+--- JOYSTICK 1 ---
+JOY1_X    : GPIO 0 (Analog/Digital)
+JOY1_Y    : GPIO 1 (Analog/Digital)
+JOY1_SW   : GPIO 10 (Switch/Button)
+
+--- JOYSTICK 2 ---
+JOY2_X    : GPIO 3 (Analog/Digital)
+JOY2_Y    : GPIO 2 (Analog/Digital)
+JOY2_SW   : GPIO 6 (Switch/Button)
+
+--- BUTTONS ---
+BTNL      : GPIO 7 (Left Button)
+BTNR      : GPIO 20 (Right Button)
+=====================================================
